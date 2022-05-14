@@ -2,6 +2,7 @@ const DRAFT_FOLDER_ID = LandGasterId.BMS_DRAFT_FOLDER_ID();
 const IMAGE_TMP_FOLDER_ID = LandGasterId.BMS_IMAGE_TMP_FOLDER_ID();
 const TEMPLATE_DOC_ID = LandGasterId.BMS_TEMPLATE_DOC_ID();
 const ERROR_LOG_DOC_ID = LandGasterId.BMS_ERROR_LOG_DOC_ID();
+const RECORD_EXEC_LOG_URL = LandGasterId.BMS_RECORD_EXEC_LOG_URL();
 
 const sheetNameDisseminating1st = "ブログ_記事";
 const sheetNameDisseminating2nd = "note_記事";
